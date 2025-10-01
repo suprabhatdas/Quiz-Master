@@ -15,6 +15,11 @@ const questions = [
        answer: "Blue Whale"
     },
     {
+       question: "What is the national flower of India?",
+       options: ["Rose", "Lotus", "Marigold", "Sunflower"],
+       answer: "Lotus"
+    },
+    {
         question: "Who wrote 'Hamlet'?",
         options: ["Charles Dickens", "William Shakespeare", "J.K. Rowling", "Leo Tolstoy"],
         answer: "William Shakespeare"
