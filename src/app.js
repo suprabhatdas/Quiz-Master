@@ -20,14 +20,14 @@ const questions = [
         answer: "Mango"
     },
     {
-        question": "What is the national tree of India?",
-        options": ["Neem", "Peepal", "Banyan", "Mango"],
-        answer": "Banyan"
+        question: "What is the national tree of India?",
+        options: ["Neem", "Peepal", "Banyan", "Mango"],
+        answer: "Banyan"
     },
     {
-        question": "What is the national song of India?",
-        options": ["Jana Gana Mana", "Vande Mataram", "Sare Jahan Se Achha", "Maa Tujhe Salaam"],
-        answer": "Vande Mataram"
+        question: "What is the national song of India?",
+        options: ["Jana Gana Mana", "Vande Mataram", "Sare Jahan Se Achha", "Maa Tujhe Salaam"],
+        answer: "Vande Mataram"
     },
     {
         question: "What is the national flower of India?",
@@ -48,6 +48,11 @@ const questions = [
         question: "Which language is primarily used for web development?",
         options: ["Python", "C++", "JavaScript", "Java"],
         correctAnswer: "JavaScript"
+    },
+    {
+        question: "What is the national river of India?",
+        options: ["Yamuna", "Ganga", "Brahmaputra", "Godavari"],
+        answer: "Ganga"
     },
     {
         question: "What is the default port for HTTP?",
