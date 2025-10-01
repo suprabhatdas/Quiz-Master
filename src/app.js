@@ -223,7 +223,12 @@ const questions = [
         question: "On which continent is Jamaica located?",
         options: ["North America", "Asia", "Africa", "Central America"],
         answer: "Central America"
-     }
+     },
+    {
+        question: "What is the national bird of India?",
+        options: ["Peacock", "Sparrow", "Parrot", "Crow"],
+        answer: "Peacock"
+    }
 ];
 
 let currentQuestionIndex = 0;
