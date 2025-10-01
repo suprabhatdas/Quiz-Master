@@ -15,6 +15,11 @@ const questions = [
        answer: "Blue Whale"
     },
     {
+        question: "What is the national fruit of India?",
+        options: ["Banana", "Mango", "Apple", "Papaya"],
+        answer: "Mango"
+    },
+    {
         question": "What is the national song of India?",
         options": ["Jana Gana Mana", "Vande Mataram", "Sare Jahan Se Achha", "Maa Tujhe Salaam"],
         answer": "Vande Mataram"
