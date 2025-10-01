@@ -10,6 +10,11 @@ const questions = [
        answer: "Blue Whale"
     },
     {
+       question: "What is the largest mammal in the world?",
+       options: ["Elephant", "Blue Whale", "Giraffe", "Great White Shark"],
+       answer: "Blue Whale"
+    },
+    {
         question: "Who wrote 'Hamlet'?",
         options: ["Charles Dickens", "William Shakespeare", "J.K. Rowling", "Leo Tolstoy"],
         answer: "William Shakespeare"
