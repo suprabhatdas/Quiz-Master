@@ -15,9 +15,14 @@ const questions = [
        answer: "Blue Whale"
     },
     {
-       question: "What is the national flower of India?",
-       options: ["Rose", "Lotus", "Marigold", "Sunflower"],
-       answer: "Lotus"
+        question": "What is the national song of India?",
+        options": ["Jana Gana Mana", "Vande Mataram", "Sare Jahan Se Achha", "Maa Tujhe Salaam"],
+        answer": "Vande Mataram"
+    },
+    {
+        question: "What is the national flower of India?",
+        options: ["Rose", "Lotus", "Marigold", "Sunflower"],
+        answer: "Lotus"
     },
     {
         question: "Who wrote 'Hamlet'?",
