@@ -10,6 +10,11 @@ const questions = [
        answer: "Blue Whale"
     },
     {
+        question": "Which gas do plants absorb from the atmosphere for photosynthesis?",
+        options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        answer": "Carbon Dioxide"
+    },
+    {
        question: "What is the largest mammal in the world?",
        options: ["Elephant", "Blue Whale", "Giraffe", "Great White Shark"],
        answer: "Blue Whale"
