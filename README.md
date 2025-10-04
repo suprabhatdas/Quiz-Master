@@ -35,7 +35,7 @@ git push origin feature-branch
 * Tested Code: Please test your changes before submitting a Pull Request (PR).
 
 ## Hacktoberfest Participation
-This repository is part of Hacktoberfest 2024 🎉! As part of your Hacktoberfest journey, feel free to contribute by :-
+This repository is part of Hacktoberfest 2025 🎉! As part of your Hacktoberfest journey, feel free to contribute by :-
 
 * Adding new quizzes or improving existing ones.
 * Fixing bugs or optimizing the quiz logic.
