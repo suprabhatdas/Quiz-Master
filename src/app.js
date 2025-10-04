@@ -15,6 +15,11 @@ const questions = [
        answer: "Blue Whale"
     },
     {
+        question: "What is the tallest mountain in the world?",
+        options: ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+        answer: "Mount Everest"
+    },
+    {
         question: "What is the national fruit of India?",
         options: ["Banana", "Mango", "Apple", "Papaya"],
         answer: "Mango"
