@@ -269,6 +269,21 @@ const questions = [
         options: ["Peacock", "Sparrow", "Parrot", "Crow"],
         answer: "Peacock"
     }
+    {
+        question: "Which element has the chemical symbol 'O'?",
+        options: ["Oxygen", "Gold", "Osmium", "Oxide"],
+        answer: "Oxygen"
+    },
+    {
+        question: "Who painted the Mona Lisa?",
+        options: ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+        answer: "Leonardo da Vinci"
+    },
+    {
+        question: "What is the smallest prime number?",
+        options: ["0", "1", "2", "3"],
+        answer: "2"
+    }
 ];
 
 let currentQuestionIndex = 0;
